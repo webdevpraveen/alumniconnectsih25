@@ -75,3 +75,9 @@ Alumni-Connect/
 [LinkedIN](https://www.linkedin.com/posts/-praveen-singh-_sih2025-aarambhcoders-smartindiahackathon-activity-7377992042586468352-3pbw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLzM_YB-JuCjDhwV1g5w1sr35LgFLz1br4)
 
 **🏆 Made with ❤️ by Team Aarambh Coders — SRMU, Lucknow**
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=webdevpraveen/alumniconnectsih25&type=date&legend=top-left)](https://github.com/webdevpraveen/alumniconnectsih25)
