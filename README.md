@@ -74,7 +74,7 @@ Alumni-Connect/
 **👥 Team Aarambh Coders** - 
 [LinkedIN](https://www.linkedin.com/posts/-praveen-singh-_sih2025-aarambhcoders-smartindiahackathon-activity-7377992042586468352-3pbw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLzM_YB-JuCjDhwV1g5w1sr35LgFLz1br4)
 
-**🏆 Made with ❤️ by Team Aarambh Coders — SRMU, Lucknow**
+**🏆 Made with ❤️ by Team Aarambh Coders — SRMU Shri Ramswaroop Memorial University**
 
 ---
 
