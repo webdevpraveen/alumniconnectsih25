@@ -289,9 +289,18 @@ const Index = () => {
             <div className="text-sm text-muted-foreground">
               © 2025 AlumniConnect. Built for Smart India Hackathon 2025.
             </div>
-            <div className="text-sm text-muted-foreground mt-2">
-              Designed & Developed by <span className="font-semibold text-primary">Aarambh Coders</span>
-            </div>
+<div className="text-sm text-muted-foreground mt-2">
+  Designed & Developed by{" "}
+  <a
+    href="https://www.linkedin.com/posts/praveenksingh-_sih2025-aarambhcoders-smartindiahackathon-activity-7377992042586468352-XtWA/"
+    className="font-semibold text-primary"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Aarambh Coders
+  </a>
+</div>
+
           </div>
         </div>
       </footer>
