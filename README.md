@@ -79,6 +79,21 @@ Alumni-Connect/
 
 ---
 
-## Star History
+## Preview
 
-[![Star History Chart](https://api.star-history.com/svg?repos=webdevpraveen/alumniconnectsih25&type=date&legend=top-left)](https://github.com/webdevpraveen/alumniconnectsih25)
+<img width="1833" height="927" alt="Screenshot 2025-12-29 231736" src="https://github.com/user-attachments/assets/4e52044b-a260-4e10-8498-a3b85ac1b31d" />
+
+---
+
+<img width="1538" height="922" alt="Screenshot 2025-12-29 231818" src="https://github.com/user-attachments/assets/4e30cf5c-5619-4466-881a-d3278e52fc50" />
+
+---
+
+<img width="1675" height="917" alt="Screenshot 2025-12-29 231930" src="https://github.com/user-attachments/assets/fd4c48c1-85a7-4004-ab33-ce08dac2bc4d" />
+
+---
+
+<img width="1579" height="916" alt="Screenshot 2025-12-29 232009" src="https://github.com/user-attachments/assets/f05f0b1c-21d7-4f83-8dea-670c422f2abb" />
+
+---
+---
