@@ -3,7 +3,7 @@
 Alumni Connect is a platform designed to bridge the gap between alumni and current students.  
 This project was built by **Team Aarambh Coders** for the **Smart India Hackathon 2025 (Internal Round)** to empower alumni networking, mentorship, and career support within educational institutions.
 
-[[Try Now]](https://alumniconnectsih25.vercel.app/)
+[[Try Prototype Style]](https://alumniconnectsih25.vercel.app/)
 
 ---
 
